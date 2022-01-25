@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carlostkd9710/hooks_buscador.git/static/css/main.1a8a0596.css",
+    "main.js": "/carlostkd9710/hooks_buscador.git/static/js/main.00bf546f.js",
+    "index.html": "/carlostkd9710/hooks_buscador.git/index.html",
+    "main.1a8a0596.css.map": "/carlostkd9710/hooks_buscador.git/static/css/main.1a8a0596.css.map",
+    "main.00bf546f.js.map": "/carlostkd9710/hooks_buscador.git/static/js/main.00bf546f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.00bf546f.js"
+  ]
+}
